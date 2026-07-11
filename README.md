@@ -252,3 +252,8 @@ Enterprise document automation platform.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/yashwanthn2005/yashwanthn2005/output/github-contribution-grid-snake-dark.svg"/>
+</p>
