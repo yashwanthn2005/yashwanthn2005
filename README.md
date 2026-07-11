@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Yashwanth;Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+# Hi there 👋 I'm Yashwanth
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Learner;AI+%7C+Machine+Learning+Enthusiast;Always+Building+Something+New" />
 
 <br>
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="420"/>
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="450"/>
 
 </div>
 
@@ -12,153 +14,198 @@
 
 # 💫 About Me
 
-🎓 Final Year B.E. Computer Science Engineering Student
+```java
+public class Yashwanth {
 
-💻 Passionate about Backend Development and Full Stack Applications
+    String education = "B.E Computer Science Engineering";
 
-🌱 Currently Learning
+    String[] interests = {
+        "Backend Development",
+        "Artificial Intelligence",
+        "System Design",
+        "Cloud Computing",
+        "Cyber Security"
+    };
 
-- Spring Boot
-- React
-- Docker
-- Microservices
-- Machine Learning
-- Cloud Technologies
+    String[] currentlyLearning = {
+        "Spring Boot",
+        "React",
+        "Docker",
+        "Microservices",
+        "Machine Learning"
+    };
 
-💡 Interested In
-
-- Artificial Intelligence
-- Backend Development
-- System Design
-- Cloud Computing
-- Cyber Security
-
-🎯 Career Goal
-
-To become a Software Engineer building scalable and impactful applications.
+    String motto = "Keep Learning • Keep Building 🚀";
+}
+```
 
 ---
 
 # 🚀 Tech Stack
 
-### Programming Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" />
-</p>
 
-### Frameworks
+<img src="https://skillicons.dev/icons?i=java"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs" />
-</p>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-### Databases
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
+<img src="https://skillicons.dev/icons?i=js"/>
 
-### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=html"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,eclipse,maven,postman,linux" />
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
 ---
 
-# 📌 Featured Projects
+## Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=eclipse"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=maven"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🤖 PhishNet AI
+
+AI-powered phishing website detection platform.
+
+### Features
+
+- Machine Learning URL Detection
+- Spring Boot REST API
+- React Frontend
+- Flask ML Service
+- PostgreSQL Database
+
+**Tech Stack**
+
+`Spring Boot` `React` `Python` `Flask` `PostgreSQL`
+
+---
 
 ## 💰 Smart Expense Tracker
 
-A Full Stack Expense Management Application
+A Full Stack Expense Management System.
 
 ### Features
 
 - Expense Tracking
 - Budget Management
-- Dashboard Analytics
-- Monthly Reports
+- Analytics Dashboard
 - Expense Prediction
-- Category-wise Insights
+- Category Insights
 
 **Tech Stack**
 
-Java • Spring Boot • MySQL • HTML • CSS • JavaScript
+`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
-## 🤖 PhishNet AI
+## 📄 Intelligent Document Processing
 
-AI-powered Phishing Website Detection System
-
-### Features
-
-- Machine Learning Prediction
-- URL Analysis
-- REST APIs
-- React Frontend
-- Flask ML Service
-
-**Tech Stack**
-
-Spring Boot • React • Python • Flask • PostgreSQL
-
----
-
-## 📄 Intelligent Document Processing (IDP)
-
-Microservices-based document processing platform.
+Enterprise document automation platform.
 
 ### Features
 
 - OCR Processing
 - RabbitMQ Queue
 - Docker Deployment
+- Microservice Architecture
 - REST APIs
-- Modular Architecture
 
 ---
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashwanthn2005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=yashwanthn2005&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 📈 Most Used Languages
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthn2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
-
-</div>
+</p>
 
 ---
 
 # 📊 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
-</div>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashwanthn2005&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
 
 ---
 
@@ -166,15 +213,15 @@ Microservices-based document processing platform.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/yashwanth-n-b90602368/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yashwanthn2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/yashwanthn2005">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -182,10 +229,26 @@ Microservices-based document processing platform.
 
 ---
 
+# 📈 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yashwanthn2005&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> *"Every expert was once a beginner who refused to give up."*
+
+---
+
 <div align="center">
 
-### 💻 "Code. Learn. Build. Repeat."
+### ⭐ If you like my work, consider giving a ⭐ to my repositories!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
 </div>
